@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm mb-shupto</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [museum-archive](https://github.com/mb-shupto/event-management-system.git](https://github.com/mb-shupto/museum-archive.git)
+- 🔭 I’m currently working on [museum-archive](https://github.com/mb-shupto/museum-archive.git)
 
 - 🌱 I’m currently learning **React, Node.js, Mongodb**
 
-- 👯 I’m looking to collaborate on [myTicketingApp](https://github.com/mb-shupto/financialDashboard.git](https://github.com/mb-shupto/myTicketingApp.git)
+- 👯 I’m looking to collaborate on [myTicketingApp](https://github.com/mb-shupto/myTicketingApp.git)
 
 - 📫 How to reach me **mr.shupto09@gmail.com**
 
