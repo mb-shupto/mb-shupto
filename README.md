@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [museum-archive](https://github.com/mb-shupto/museum-archive.git)
 
-- 🌱 I’m currently learning **React, Node.js, Mongodb**
+- 🌱 I’m currently learning **Flutter, Dart**
 
 - 👯 I’m looking to collaborate on [myTicketingApp](https://github.com/mb-shupto/myTicketingApp.git)
 
