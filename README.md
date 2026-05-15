@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm mb-shupto</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm masum-bari-supto</h1>
+<h3 align="center">A passionate web developer</h3>
 
 - 🔭 I’m currently working on [event-management-system](https://github.com/mb-shupto/event-management-system.git)
 
-- 🌱 I’m currently learning **Flutter, Dart, Next, React**
+- 🌱 I’m currently learning **AI, Node, Express**
 
 - 👯 I’m looking to collaborate on [museum-archive](https://github.com/mb-shupto/museum-archive.git)
 
