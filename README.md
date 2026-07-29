@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm masum-bari-supto</h1>
-<h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on [event-management-system](https://github.com/mb-shupto/event-management-system.git)
+- 🔭 I’m currently working on [rebook-bd](https://github.com/mb-shupto/rebook-bd.git)
 
-- 🌱 I’m currently learning **AI, Node, Express**
-
-- 👯 I’m looking to collaborate on [museum-archive](https://github.com/mb-shupto/museum-archive.git)
+- 🌱 I’m currently learning **AI, Node, Express, Flask**
 
 - 📫 How to reach me **mr.shupto09@gmail.com**
 
